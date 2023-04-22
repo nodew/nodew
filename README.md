@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**nodew/nodew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Qiao Wang, a fullstack software engineer. I enjoy building stuff, my areas of interest include web applications, mobile applications, desktop applications, etc.
 
-Here are some ideas to get you started:
+[![Qiao Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nodew&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Qiao Wang's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nodew&hide_progress=true&hide=lua,c)](https://github.com/anuraghazra/github-readme-stats)
+
+----
+
+I'm the translator of [框架设计指南：构建可复用 .NET 库的约定、惯例和模式（第三版）](https://wangqiao.me/books/framework-design-guidelines/)
+
+📫 You can reach out via Email (See Profile).
+
+Cheers!
