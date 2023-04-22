@@ -8,7 +8,7 @@ I'm Qiao Wang, a fullstack software engineer. I enjoy building stuff, my areas o
 
 ----
 -->
-I'm the translator of [框架设计指南：构建可复用 .NET 库的约定、惯例和模式（第三版）](https://wangqiao.me/books/framework-design-guidelines/)
+I'm the translator of 📘[框架设计指南：构建可复用 .NET 库的约定、惯例和模式（第三版）](https://wangqiao.me/books/framework-design-guidelines/)
 
 📫 You can reach out via Email (See Profile).
 
